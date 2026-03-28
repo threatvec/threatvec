@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**threatvec/threatvec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D6B52&center=true&vCenter=true&width=435&lines=threatvec;gamer+first.;coder+when+needed.)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+![terminal](https://raw.githubusercontent.com/threatvec/threatvec/main/terminal.svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=threatvec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3d6b52&icon_color=3d6b52&text_color=555555)
+
+</div>
