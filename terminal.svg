@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 620" width="700" height="620">
-  <rect width="700" height="620" rx="8" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700">
+  <rect width="700" height="700" rx="8" fill="#0d1117"/>
   <rect width="700" height="36" rx="8" fill="#161b22"/>
   <rect y="28" width="700" height="8" fill="#161b22"/>
   <circle cx="20" cy="18" r="6" fill="#21262d"/>
@@ -21,66 +21,76 @@
 
   <line x1="20" y1="124" x2="680" y2="124" stroke="#21262d" stroke-width="1"/>
 
-  <!-- games -->
+  <!-- featured -->
   <text x="20" y="148" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
   <text x="95" y="148" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
   <text x="163" y="148" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
   <text x="175" y="148" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <text x="188" y="148" font-family="monospace" font-size="13" fill="#8b949e">cat games.txt</text>
+  <text x="188" y="148" font-family="monospace" font-size="13" fill="#8b949e">cat featured.txt</text>
 
-  <text x="32" y="170" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="170" font-family="monospace" font-size="12" fill="#484f58">red dead redemption 2</text>
-  <text x="32" y="188" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="188" font-family="monospace" font-size="12" fill="#484f58">rust</text>
-  <text x="32" y="206" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="206" font-family="monospace" font-size="12" fill="#484f58">fivem</text>
+  <rect x="28" y="158" width="644" height="60" rx="4" fill="#0f2318" stroke="#1f4a2e" stroke-width="1"/>
+  <text x="40" y="175" font-family="monospace" font-size="13" fill="#3d6b52">⚡ VAULTX v1.0.0</text>
+  <text x="40" y="193" font-family="monospace" font-size="11" fill="#484f58">40+ cybersecurity tools in one native app — OSINT, threat intel, network analysis</text>
+  <text x="40" y="209" font-family="monospace" font-size="11" fill="#2d5a3d">github.com/threatvec/vaultx</text>
 
-  <line x1="20" y1="222" x2="680" y2="222" stroke="#21262d" stroke-width="1"/>
+  <line x1="20" y1="232" x2="680" y2="232" stroke="#21262d" stroke-width="1"/>
+
+  <!-- games -->
+  <text x="20" y="256" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="256" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="256" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="256" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <text x="188" y="256" font-family="monospace" font-size="13" fill="#8b949e">cat games.txt</text>
+
+  <text x="32" y="278" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="278" font-family="monospace" font-size="12" fill="#484f58">red dead redemption 2</text>
+  <text x="32" y="296" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="296" font-family="monospace" font-size="12" fill="#484f58">rust</text>
+  <text x="32" y="314" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="314" font-family="monospace" font-size="12" fill="#484f58">fivem</text>
+
+  <line x1="20" y1="330" x2="680" y2="330" stroke="#21262d" stroke-width="1"/>
 
   <!-- projects -->
-  <text x="20" y="246" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
-  <text x="95" y="246" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
-  <text x="163" y="246" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
-  <text x="175" y="246" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <text x="188" y="246" font-family="monospace" font-size="13" fill="#8b949e">ls ./projects</text>
+  <text x="20" y="354" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="354" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="354" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="354" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <text x="188" y="354" font-family="monospace" font-size="13" fill="#8b949e">ls ./projects</text>
 
-  <text x="32" y="268" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="268" font-family="monospace" font-size="12" fill="#484f58">game tools &amp; automation</text>
-  <text x="32" y="286" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="286" font-family="monospace" font-size="12" fill="#484f58">fivem server resources (65 custom resources, qbcore)</text>
-  <text x="32" y="304" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="304" font-family="monospace" font-size="12" fill="#484f58">business software</text>
-  <text x="32" y="322" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="322" font-family="monospace" font-size="12" fill="#484f58">binance trading bot</text>
-  <text x="32" y="340" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="340" font-family="monospace" font-size="12" fill="#484f58">steam farming bot (node.js, docker, live web ui)</text>
-  <text x="32" y="358" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="358" font-family="monospace" font-size="12" fill="#484f58">system toolkit (python, 1000+ lines)</text>
-  <text x="32" y="376" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="376" font-family="monospace" font-size="12" fill="#484f58">dev environment setup scripts</text>
+  <text x="32" y="376" font-family="monospace" font-size="12" fill="#3d6b52">⚡</text>
+  <text x="52" y="376" font-family="monospace" font-size="12" fill="#5a9a70">vaultx — 40+ security tools (Go + React + Wails)</text>
+  <text x="32" y="394" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="394" font-family="monospace" font-size="12" fill="#484f58">fivem server resources (65 custom, qbcore)</text>
+  <text x="32" y="412" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="412" font-family="monospace" font-size="12" fill="#484f58">binance trading bot</text>
+  <text x="32" y="430" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="430" font-family="monospace" font-size="12" fill="#484f58">steam farming bot (node.js, docker, live web ui)</text>
+  <text x="32" y="448" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="448" font-family="monospace" font-size="12" fill="#484f58">game tools &amp; automation scripts</text>
 
-  <line x1="20" y1="392" x2="680" y2="392" stroke="#21262d" stroke-width="1"/>
+  <line x1="20" y1="464" x2="680" y2="464" stroke="#21262d" stroke-width="1"/>
 
   <!-- upcoming -->
-  <text x="20" y="416" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
-  <text x="95" y="416" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
-  <text x="163" y="416" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
-  <text x="175" y="416" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <text x="188" y="416" font-family="monospace" font-size="13" fill="#8b949e">cat upcoming.txt</text>
+  <text x="20" y="488" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="488" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="488" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="488" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <text x="188" y="488" font-family="monospace" font-size="13" fill="#8b949e">cat upcoming.txt</text>
 
-  <text x="32" y="438" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
-  <text x="48" y="438" font-family="monospace" font-size="12" fill="#484f58">rust companion app (mobile / web)</text>
-  <text x="32" y="456" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
-  <text x="48" y="456" font-family="monospace" font-size="12" fill="#484f58">fivem server panel</text>
-  <text x="32" y="474" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
-  <text x="48" y="474" font-family="monospace" font-size="12" fill="#484f58">smarter trading bot v2</text>
+  <text x="32" y="510" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
+  <text x="48" y="510" font-family="monospace" font-size="12" fill="#484f58">vaultx — linux &amp; macos support</text>
+  <text x="32" y="528" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
+  <text x="48" y="528" font-family="monospace" font-size="12" fill="#484f58">vaultx — more tools &amp; integrations</text>
+  <text x="32" y="546" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
+  <text x="48" y="546" font-family="monospace" font-size="12" fill="#484f58">rust companion app (mobile / web)</text>
 
-  <line x1="20" y1="490" x2="680" y2="490" stroke="#21262d" stroke-width="1"/>
+  <line x1="20" y1="562" x2="680" y2="562" stroke="#21262d" stroke-width="1"/>
 
   <!-- cursor -->
-  <text x="20" y="520" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
-  <text x="95" y="520" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
-  <text x="163" y="520" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
-  <text x="175" y="520" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <rect x="188" y="508" width="8" height="14" fill="#3d6b52" opacity="0.8"/>
+  <text x="20" y="592" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="592" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="592" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="592" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <rect x="188" y="580" width="8" height="14" fill="#3d6b52" opacity="0.8"/>
 </svg>
