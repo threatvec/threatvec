@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D6B52&center=true&vCenter=true&width=600&lines=threatvec;gamer+first.;coder+when+needed.;built+VAULTX+%E2%80%94+40%2B+security+tools.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D6B52&center=true&vCenter=true&width=600&lines=threatvec;gamer+first.;coder+when+needed.;built+VAULTX+%E2%80%94+40%2B+security+tools.;built+TaskForge+%E2%80%94+modern+kanban+board.)
 
 </div>
 
@@ -19,6 +19,10 @@
 [![VAULTX](https://img.shields.io/badge/⚡_VAULTX-v1.0.0-3d6b52?style=for-the-badge)](https://github.com/threatvec/vaultx)
 &nbsp;
 [![Downloads](https://img.shields.io/github/downloads/threatvec/vaultx/total?style=for-the-badge&color=3d6b52&label=downloads)](https://github.com/threatvec/vaultx/releases)
+
+[![TaskForge](https://img.shields.io/badge/🔨_TaskForge-v1.0.0-6366f1?style=for-the-badge)](https://github.com/threatvec/taskforge)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/threatvec/taskforge?style=for-the-badge&color=6366f1&label=stars)](https://github.com/threatvec/taskforge)
 
 </div>
 
