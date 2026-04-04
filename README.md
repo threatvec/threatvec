@@ -34,9 +34,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=threatvec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3d6b52&icon_color=3d6b52&text_color=555555)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=threatvec&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3d6b52&text_color=555555)
+![GitHub Streak](https://streak-stats.demolab.com?user=threatvec&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3d6b52&fire=3d6b52&currStreakLabel=3d6b52&sideLabels=555555&currStreakNum=8b949e&sideNums=8b949e&dates=30363d)
 
 </div>
 
