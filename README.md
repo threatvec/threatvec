@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=484f58&center=true&vCenter=true&width=500&lines=%E2%9A%A1+VAULTX+%E2%80%94+40%2B+cybersecurity+tools;%F0%9F%94%91+GhostKey+%E2%80%94+AI+secret+scanner%2C+160%2B+patterns;%F0%9F%9B%A1%EF%B8%8F+ShieldX+%E2%80%94+privacy%2C+debloat+%26+firewall;%F0%9F%94%A8+TaskForge+%E2%80%94+modern+kanban+board)
+
+</div>
+
 <br>
 
 <div align="center">
