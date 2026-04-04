@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D6B52&center=true&vCenter=true&width=600&lines=threatvec;gamer+first.;coder+when+needed.;built+VAULTX+%E2%80%94+40%2B+security+tools.;built+ShieldX+%E2%80%94+privacy+%26+firewall+manager.;built+GhostKey+%E2%80%94+AI+secret+scanner.;built+TaskForge+%E2%80%94+modern+kanban+board.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D6B52&center=true&vCenter=true&width=600&lines=threatvec;gamer+first.;coder+when+needed.)
 
 </div>
 
