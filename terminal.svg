@@ -28,34 +28,26 @@
   <text x="175" y="148" font-family="monospace" font-size="13" fill="#484f58">$</text>
   <text x="188" y="148" font-family="monospace" font-size="13" fill="#8b949e">cat featured.txt</text>
 
-  <!-- VAULTX box - animated glow -->
-  <rect x="28" y="158" width="644" height="60" rx="4" fill="#0f2318" stroke="#1f4a2e" stroke-width="1">
-    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
-  </rect>
+  <!-- VAULTX box -->
+  <rect x="28" y="158" width="644" height="60" rx="4" fill="#0f2318" stroke="#1f4a2e" stroke-width="1"/>
   <text x="40" y="175" font-family="monospace" font-size="13" fill="#3d6b52">⚡ VAULTX v1.0.0</text>
   <text x="40" y="193" font-family="monospace" font-size="11" fill="#484f58">40+ cybersecurity tools in one native app — OSINT, threat intel, network analysis</text>
   <text x="40" y="209" font-family="monospace" font-size="11" fill="#2d5a3d">github.com/threatvec/vaultx</text>
 
-  <!-- GhostKey box - animated glow -->
-  <rect x="28" y="226" width="644" height="60" rx="4" fill="#1a1408" stroke="#92400e" stroke-width="1">
-    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
-  </rect>
+  <!-- GhostKey box -->
+  <rect x="28" y="226" width="644" height="60" rx="4" fill="#1a1408" stroke="#92400e" stroke-width="1"/>
   <text x="40" y="243" font-family="monospace" font-size="13" fill="#f59e0b">🔑 GhostKey v1.0.0</text>
   <text x="40" y="261" font-family="monospace" font-size="11" fill="#484f58">AI-powered secret scanner — 160+ patterns, local AI, clipboard monitor</text>
   <text x="40" y="277" font-family="monospace" font-size="11" fill="#d97706">github.com/threatvec/ghostkey</text>
 
-  <!-- ShieldX box - animated glow -->
-  <rect x="28" y="294" width="644" height="60" rx="4" fill="#0f1028" stroke="#312e81" stroke-width="1">
-    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
+  <!-- ShieldX box -->
+  <rect x="28" y="294" width="644" height="60" rx="4" fill="#0f1028" stroke="#312e81" stroke-width="1"/>
   <text x="40" y="311" font-family="monospace" font-size="13" fill="#a5b4fc">🛡️ ShieldX v1.0.0</text>
   <text x="40" y="329" font-family="monospace" font-size="11" fill="#484f58">windows privacy, debloat &amp; firewall manager — material design dark UI</text>
   <text x="40" y="345" font-family="monospace" font-size="11" fill="#818cf8">github.com/threatvec/ShieldX</text>
 
-  <!-- TaskForge box - animated glow -->
-  <rect x="28" y="362" width="644" height="60" rx="4" fill="#13103a" stroke="#3730a3" stroke-width="1">
-    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3.2s" repeatCount="indefinite"/>
-  </rect>
+  <!-- TaskForge box -->
+  <rect x="28" y="362" width="644" height="60" rx="4" fill="#13103a" stroke="#3730a3" stroke-width="1"/>
   <text x="40" y="379" font-family="monospace" font-size="13" fill="#818cf8">🔨 TaskForge v1.0.0</text>
   <text x="40" y="397" font-family="monospace" font-size="11" fill="#484f58">modern kanban board — drag &amp; drop, i18n, dark mode, privacy-first</text>
   <text x="40" y="413" font-family="monospace" font-size="11" fill="#6366f1">github.com/threatvec/taskforge</text>
