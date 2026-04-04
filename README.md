@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D6B52&center=true&vCenter=true&width=600&lines=threatvec;gamer+first.;coder+when+needed.;built+VAULTX+%E2%80%94+40%2B+security+tools.;built+ShieldX+%E2%80%94+privacy+%26+firewall+manager.;built+TaskForge+%E2%80%94+modern+kanban+board.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3D6B52&center=true&vCenter=true&width=600&lines=threatvec;gamer+first.;coder+when+needed.;built+VAULTX+%E2%80%94+40%2B+security+tools.;built+ShieldX+%E2%80%94+privacy+%26+firewall+manager.;built+GhostKey+%E2%80%94+AI+secret+scanner.;built+TaskForge+%E2%80%94+modern+kanban+board.)
 
 </div>
 
@@ -21,6 +21,12 @@
 [![Downloads](https://img.shields.io/github/downloads/threatvec/vaultx/total?style=for-the-badge&color=3d6b52&label=downloads)](https://github.com/threatvec/vaultx/releases)
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/threatvec/vaultx?style=for-the-badge&color=3d6b52&label=stars)](https://github.com/threatvec/vaultx)
+
+[![GhostKey](https://img.shields.io/badge/🔑_GhostKey-v1.0.0-f59e0b?style=for-the-badge)](https://github.com/threatvec/ghostkey)
+&nbsp;
+[![Downloads](https://img.shields.io/github/downloads/threatvec/ghostkey/total?style=for-the-badge&color=f59e0b&label=downloads)](https://github.com/threatvec/ghostkey/releases)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/threatvec/ghostkey?style=for-the-badge&color=f59e0b&label=stars)](https://github.com/threatvec/ghostkey)
 
 [![ShieldX](https://img.shields.io/badge/🛡️_ShieldX-v1.0.0-818cf8?style=for-the-badge)](https://github.com/threatvec/ShieldX)
 &nbsp;
