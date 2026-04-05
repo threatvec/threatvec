@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=484f58&center=true&vCenter=true&width=500&lines=%E2%9A%A1+VAULTX+%E2%80%94+40%2B+cybersecurity+tools;%F0%9F%94%91+GhostKey+%E2%80%94+AI+secret+scanner%2C+160%2B+patterns;%F0%9F%9B%A1%EF%B8%8F+ShieldX+%E2%80%94+privacy%2C+debloat+%26+firewall;%F0%9F%94%A8+TaskForge+%E2%80%94+modern+kanban+board)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=484f58&center=true&vCenter=true&width=550&lines=%E2%9A%A1+VAULTX+%E2%80%94+40%2B+cybersecurity+tools;%F0%9F%94%91+GhostKey+%E2%80%94+AI+secret+scanner;%F0%9F%9B%A1%EF%B8%8F+ShieldX+%E2%80%94+privacy+%26+firewall;%F0%9F%94%A8+TaskForge+%E2%80%94+kanban+board;%F0%9F%94%8D+IPSpy+%E2%80%94+IP+%26+domain+intel;%F0%9F%94%90+VaultPass+%E2%80%94+password+generator;%F0%9F%93%A1+PortX+%E2%80%94+port+scanner;%23%EF%B8%8F%E2%83%A3+CheckSum+%E2%80%94+file+hash+%26+VT;%F0%9F%94%A4+EncodeX+%E2%80%94+encoder%2Fdecoder)
 
 </div>
 
@@ -45,6 +45,16 @@
 [![Downloads](https://img.shields.io/github/downloads/threatvec/taskforge/total?style=for-the-badge&color=6366f1&label=downloads)](https://github.com/threatvec/taskforge/releases)
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/threatvec/taskforge?style=for-the-badge&color=6366f1&label=stars)](https://github.com/threatvec/taskforge)
+
+[![IPSpy](https://img.shields.io/badge/🔍_IPSpy-v1.0.0-06b6d4?style=for-the-badge)](https://github.com/threatvec/ipspy)
+&nbsp;
+[![VaultPass](https://img.shields.io/badge/🔐_VaultPass-v1.0.0-10b981?style=for-the-badge)](https://github.com/threatvec/vaultpass)
+&nbsp;
+[![PortX](https://img.shields.io/badge/📡_PortX-v1.0.0-ef4444?style=for-the-badge)](https://github.com/threatvec/portx)
+&nbsp;
+[![CheckSum](https://img.shields.io/badge/%23_CheckSum-v1.0.0-8b5cf6?style=for-the-badge)](https://github.com/threatvec/checksum)
+&nbsp;
+[![EncodeX](https://img.shields.io/badge/🔤_EncodeX-v1.0.0-ec4899?style=for-the-badge)](https://github.com/threatvec/encodex)
 
 </div>
 
