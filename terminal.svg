@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1020" width="700" height="1020">
-  <rect width="700" height="1020" rx="8" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1100" width="700" height="1100">
+  <rect width="700" height="1100" rx="8" fill="#0d1117"/>
   <rect width="700" height="36" rx="8" fill="#161b22"/>
   <rect y="28" width="700" height="8" fill="#161b22"/>
   <circle cx="20" cy="18" r="6" fill="#21262d"/>
@@ -52,82 +52,90 @@
   <text x="40" y="397" font-family="monospace" font-size="11" fill="#484f58">modern kanban board — drag &amp; drop, i18n, dark mode, privacy-first</text>
   <text x="40" y="413" font-family="monospace" font-size="11" fill="#6366f1">github.com/threatvec/taskforge</text>
 
-  <line x1="20" y1="436" x2="680" y2="436" stroke="#21262d" stroke-width="1"/>
+  <!-- TweakForge box -->
+  <rect x="28" y="430" width="644" height="60" rx="4" fill="#1a1008" stroke="#9a3412" stroke-width="1"/>
+  <text x="40" y="447" font-family="monospace" font-size="13" fill="#f97316">🔧 TweakForge v1.0.0</text>
+  <text x="40" y="465" font-family="monospace" font-size="11" fill="#484f58">ultimate windows tweaker — 101 tweaks, profiles, cleaner, gaming mode</text>
+  <text x="40" y="481" font-family="monospace" font-size="11" fill="#ea580c">github.com/threatvec/tweakforge</text>
+
+  <line x1="20" y1="504" x2="680" y2="504" stroke="#21262d" stroke-width="1"/>
 
   <!-- games -->
-  <text x="20" y="460" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
-  <text x="95" y="460" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
-  <text x="163" y="460" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
-  <text x="175" y="460" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <text x="188" y="460" font-family="monospace" font-size="13" fill="#8b949e">cat games.txt</text>
+  <text x="20" y="528" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="528" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="528" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="528" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <text x="188" y="528" font-family="monospace" font-size="13" fill="#8b949e">cat games.txt</text>
 
-  <text x="32" y="482" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="482" font-family="monospace" font-size="12" fill="#484f58">red dead redemption 2</text>
-  <text x="32" y="500" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="500" font-family="monospace" font-size="12" fill="#484f58">rust</text>
-  <text x="32" y="518" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="518" font-family="monospace" font-size="12" fill="#484f58">fivem</text>
+  <text x="32" y="550" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="550" font-family="monospace" font-size="12" fill="#484f58">red dead redemption 2</text>
+  <text x="32" y="568" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="568" font-family="monospace" font-size="12" fill="#484f58">rust</text>
+  <text x="32" y="586" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="586" font-family="monospace" font-size="12" fill="#484f58">fivem</text>
 
-  <line x1="20" y1="534" x2="680" y2="534" stroke="#21262d" stroke-width="1"/>
+  <line x1="20" y1="602" x2="680" y2="602" stroke="#21262d" stroke-width="1"/>
 
   <!-- projects -->
-  <text x="20" y="558" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
-  <text x="95" y="558" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
-  <text x="163" y="558" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
-  <text x="175" y="558" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <text x="188" y="558" font-family="monospace" font-size="13" fill="#8b949e">ls ./projects</text>
+  <text x="20" y="626" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="626" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="626" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="626" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <text x="188" y="626" font-family="monospace" font-size="13" fill="#8b949e">ls ./projects</text>
 
-  <text x="32" y="580" font-family="monospace" font-size="12" fill="#3d6b52">⚡</text>
-  <text x="52" y="580" font-family="monospace" font-size="12" fill="#5a9a70">vaultx — 40+ security tools (Go + React + Wails)</text>
-  <text x="32" y="598" font-family="monospace" font-size="12" fill="#f59e0b">🔑</text>
-  <text x="52" y="598" font-family="monospace" font-size="12" fill="#fbbf24">ghostkey — AI secret scanner, 160+ patterns (Go)</text>
-  <text x="32" y="616" font-family="monospace" font-size="12" fill="#a5b4fc">🛡️</text>
-  <text x="52" y="616" font-family="monospace" font-size="12" fill="#a5b4fc">shieldx — privacy, debloat &amp; firewall (C# + WPF)</text>
-  <text x="32" y="634" font-family="monospace" font-size="12" fill="#818cf8">🔨</text>
-  <text x="52" y="634" font-family="monospace" font-size="12" fill="#a5b4fc">taskforge — modern kanban board (Next.js + TypeScript)</text>
-  <text x="32" y="652" font-family="monospace" font-size="12" fill="#06b6d4">🔍</text>
-  <text x="52" y="652" font-family="monospace" font-size="12" fill="#67e8f9">ipspy — IP &amp; domain intelligence (Go)</text>
-  <text x="32" y="670" font-family="monospace" font-size="12" fill="#10b981">🔐</text>
-  <text x="52" y="670" font-family="monospace" font-size="12" fill="#6ee7b7">vaultpass — secure password generator (Go)</text>
-  <text x="32" y="688" font-family="monospace" font-size="12" fill="#ef4444">📡</text>
-  <text x="52" y="688" font-family="monospace" font-size="12" fill="#fca5a5">portx — fast port scanner (Go)</text>
-  <text x="32" y="706" font-family="monospace" font-size="12" fill="#8b5cf6">#️</text>
-  <text x="52" y="706" font-family="monospace" font-size="12" fill="#c4b5fd">checksum — file hash &amp; VirusTotal checker (Go)</text>
-  <text x="32" y="724" font-family="monospace" font-size="12" fill="#ec4899">🔤</text>
-  <text x="52" y="724" font-family="monospace" font-size="12" fill="#f9a8d4">encodex — universal encoder/decoder (Go)</text>
-  <text x="32" y="742" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="742" font-family="monospace" font-size="12" fill="#484f58">fivem server resources (65 custom, qbcore)</text>
-  <text x="32" y="760" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="760" font-family="monospace" font-size="12" fill="#484f58">binance trading bot</text>
-  <text x="32" y="778" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="778" font-family="monospace" font-size="12" fill="#484f58">steam farming bot (node.js, docker, live web ui)</text>
-  <text x="32" y="796" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
-  <text x="48" y="796" font-family="monospace" font-size="12" fill="#484f58">game tools &amp; automation scripts</text>
+  <text x="32" y="648" font-family="monospace" font-size="12" fill="#3d6b52">⚡</text>
+  <text x="52" y="648" font-family="monospace" font-size="12" fill="#5a9a70">vaultx — 40+ security tools (Go + React + Wails)</text>
+  <text x="32" y="666" font-family="monospace" font-size="12" fill="#f59e0b">🔑</text>
+  <text x="52" y="666" font-family="monospace" font-size="12" fill="#fbbf24">ghostkey — AI secret scanner, 160+ patterns (Go)</text>
+  <text x="32" y="684" font-family="monospace" font-size="12" fill="#a5b4fc">🛡️</text>
+  <text x="52" y="684" font-family="monospace" font-size="12" fill="#a5b4fc">shieldx — privacy, debloat &amp; firewall (C# + WPF)</text>
+  <text x="32" y="702" font-family="monospace" font-size="12" fill="#f97316">🔧</text>
+  <text x="52" y="702" font-family="monospace" font-size="12" fill="#fb923c">tweakforge — 101 tweaks, profiles, gaming mode (C# + WPF)</text>
+  <text x="32" y="720" font-family="monospace" font-size="12" fill="#818cf8">🔨</text>
+  <text x="52" y="720" font-family="monospace" font-size="12" fill="#a5b4fc">taskforge — modern kanban board (Next.js + TypeScript)</text>
+  <text x="32" y="738" font-family="monospace" font-size="12" fill="#06b6d4">🔍</text>
+  <text x="52" y="738" font-family="monospace" font-size="12" fill="#67e8f9">ipspy — IP &amp; domain intelligence (Go)</text>
+  <text x="32" y="756" font-family="monospace" font-size="12" fill="#10b981">🔐</text>
+  <text x="52" y="756" font-family="monospace" font-size="12" fill="#6ee7b7">vaultpass — secure password generator (Go)</text>
+  <text x="32" y="774" font-family="monospace" font-size="12" fill="#ef4444">📡</text>
+  <text x="52" y="774" font-family="monospace" font-size="12" fill="#fca5a5">portx — fast port scanner (Go)</text>
+  <text x="32" y="792" font-family="monospace" font-size="12" fill="#8b5cf6">#️</text>
+  <text x="52" y="792" font-family="monospace" font-size="12" fill="#c4b5fd">checksum — file hash &amp; VirusTotal checker (Go)</text>
+  <text x="32" y="810" font-family="monospace" font-size="12" fill="#ec4899">🔤</text>
+  <text x="52" y="810" font-family="monospace" font-size="12" fill="#f9a8d4">encodex — universal encoder/decoder (Go)</text>
+  <text x="32" y="828" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="828" font-family="monospace" font-size="12" fill="#484f58">fivem server resources (65 custom, qbcore)</text>
+  <text x="32" y="846" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="846" font-family="monospace" font-size="12" fill="#484f58">binance trading bot</text>
+  <text x="32" y="864" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="864" font-family="monospace" font-size="12" fill="#484f58">steam farming bot (node.js, docker, live web ui)</text>
+  <text x="32" y="882" font-family="monospace" font-size="12" fill="#30363d">&gt;</text>
+  <text x="48" y="882" font-family="monospace" font-size="12" fill="#484f58">game tools &amp; automation scripts</text>
 
-  <line x1="20" y1="812" x2="680" y2="812" stroke="#21262d" stroke-width="1"/>
+  <line x1="20" y1="898" x2="680" y2="898" stroke="#21262d" stroke-width="1"/>
 
   <!-- upcoming -->
-  <text x="20" y="836" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
-  <text x="95" y="836" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
-  <text x="163" y="836" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
-  <text x="175" y="836" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <text x="188" y="836" font-family="monospace" font-size="13" fill="#8b949e">cat upcoming.txt</text>
+  <text x="20" y="922" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="922" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="922" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="922" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <text x="188" y="922" font-family="monospace" font-size="13" fill="#8b949e">cat upcoming.txt</text>
 
-  <text x="32" y="858" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
-  <text x="48" y="858" font-family="monospace" font-size="12" fill="#484f58">vaultx — linux &amp; macos support</text>
-  <text x="32" y="876" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
-  <text x="48" y="876" font-family="monospace" font-size="12" fill="#484f58">ghostkey — more patterns &amp; CI/CD integration</text>
-  <text x="32" y="894" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
-  <text x="48" y="894" font-family="monospace" font-size="12" fill="#484f58">cross-platform support for all tools</text>
+  <text x="32" y="944" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
+  <text x="48" y="944" font-family="monospace" font-size="12" fill="#484f58">vaultx — linux &amp; macos support</text>
+  <text x="32" y="962" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
+  <text x="48" y="962" font-family="monospace" font-size="12" fill="#484f58">tweakforge — more tweaks &amp; themes</text>
+  <text x="32" y="980" font-family="monospace" font-size="12" fill="#1f4a2e">~</text>
+  <text x="48" y="980" font-family="monospace" font-size="12" fill="#484f58">cross-platform support for all tools</text>
 
-  <line x1="20" y1="910" x2="680" y2="910" stroke="#21262d" stroke-width="1"/>
+  <line x1="20" y1="996" x2="680" y2="996" stroke="#21262d" stroke-width="1"/>
 
   <!-- cursor with blinking animation -->
-  <text x="20" y="940" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
-  <text x="95" y="940" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
-  <text x="163" y="940" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
-  <text x="175" y="940" font-family="monospace" font-size="13" fill="#484f58">$</text>
-  <rect x="188" y="928" width="8" height="14" fill="#3d6b52">
+  <text x="20" y="1026" font-family="monospace" font-size="13" fill="#3d6b52">threatvec</text>
+  <text x="95" y="1026" font-family="monospace" font-size="13" fill="#484f58">@github:</text>
+  <text x="163" y="1026" font-family="monospace" font-size="13" fill="#3d6b52">~</text>
+  <text x="175" y="1026" font-family="monospace" font-size="13" fill="#484f58">$</text>
+  <rect x="188" y="1014" width="8" height="14" fill="#3d6b52">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
