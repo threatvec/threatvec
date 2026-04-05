@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=484f58&center=true&vCenter=true&width=550&lines=%E2%9A%A1+VAULTX+%E2%80%94+40%2B+cybersecurity+tools;%F0%9F%94%91+GhostKey+%E2%80%94+AI+secret+scanner;%F0%9F%9B%A1%EF%B8%8F+ShieldX+%E2%80%94+privacy+%26+firewall;%F0%9F%94%A8+TaskForge+%E2%80%94+kanban+board;%F0%9F%94%8D+IPSpy+%E2%80%94+IP+%26+domain+intel;%F0%9F%94%90+VaultPass+%E2%80%94+password+generator;%F0%9F%93%A1+PortX+%E2%80%94+port+scanner;%23%EF%B8%8F%E2%83%A3+CheckSum+%E2%80%94+file+hash+%26+VT;%F0%9F%94%A4+EncodeX+%E2%80%94+encoder%2Fdecoder)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=484f58&center=true&vCenter=true&width=550&lines=%E2%9A%A1+VAULTX+%E2%80%94+40%2B+cybersecurity+tools;%F0%9F%94%91+GhostKey+%E2%80%94+AI+secret+scanner;%F0%9F%9B%A1%EF%B8%8F+ShieldX+%E2%80%94+privacy+%26+firewall;%F0%9F%94%A8+TaskForge+%E2%80%94+kanban+board;%F0%9F%94%8D+IPSpy+%E2%80%94+IP+%26+domain+intel;%F0%9F%94%90+VaultPass+%E2%80%94+password+generator;%F0%9F%93%A1+PortX+%E2%80%94+port+scanner;%23%EF%B8%8F%E2%83%A3+CheckSum+%E2%80%94+file+hash+%26+VT;%F0%9F%94%A4+EncodeX+%E2%80%94+encoder%2Fdecoder;%F0%9F%94%A7+TweakForge+%E2%80%94+101+Windows+tweaks)
 
 </div>
 
@@ -55,6 +55,8 @@
 [![CheckSum](https://img.shields.io/badge/%23_CheckSum-v1.0.0-8b5cf6?style=for-the-badge)](https://github.com/threatvec/checksum)
 &nbsp;
 [![EncodeX](https://img.shields.io/badge/🔤_EncodeX-v1.0.0-ec4899?style=for-the-badge)](https://github.com/threatvec/encodex)
+&nbsp;
+[![TweakForge](https://img.shields.io/badge/🔧_TweakForge-v1.0.0-f97316?style=for-the-badge)](https://github.com/threatvec/tweakforge)
 
 </div>
 
