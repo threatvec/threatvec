@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=484f58&center=true&vCenter=true&width=550&lines=%E2%9A%A1+VAULTX+%E2%80%94+40%2B+cybersecurity+tools;%F0%9F%94%91+GhostKey+%E2%80%94+AI+secret+scanner;%F0%9F%9B%A1%EF%B8%8F+ShieldX+%E2%80%94+privacy+%26+firewall;%F0%9F%94%A8+TaskForge+%E2%80%94+kanban+board;%F0%9F%94%8D+IPSpy+%E2%80%94+IP+%26+domain+intel;%F0%9F%94%90+VaultPass+%E2%80%94+password+generator;%F0%9F%93%A1+PortX+%E2%80%94+port+scanner;%23%EF%B8%8F%E2%83%A3+CheckSum+%E2%80%94+file+hash+%26+VT;%F0%9F%94%A4+EncodeX+%E2%80%94+encoder%2Fdecoder;%F0%9F%94%A7+TweakForge+%E2%80%94+101+Windows+tweaks)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=484f58&center=true&vCenter=true&width=550&lines=%F0%9F%9B%A1%EF%B8%8F+SentinelAI+%E2%80%94+AI+security+platform;%E2%9A%A1+VAULTX+%E2%80%94+40%2B+cybersecurity+tools;%F0%9F%94%91+GhostKey+%E2%80%94+AI+secret+scanner;%F0%9F%9B%A1%EF%B8%8F+ShieldX+%E2%80%94+privacy+%26+firewall;%F0%9F%94%A8+TaskForge+%E2%80%94+kanban+board;%F0%9F%94%8D+IPSpy+%E2%80%94+IP+%26+domain+intel;%F0%9F%94%90+VaultPass+%E2%80%94+password+generator;%F0%9F%93%A1+PortX+%E2%80%94+port+scanner;%23%EF%B8%8F%E2%83%A3+CheckSum+%E2%80%94+file+hash+%26+VT;%F0%9F%94%A4+EncodeX+%E2%80%94+encoder%2Fdecoder;%F0%9F%94%A7+TweakForge+%E2%80%94+101+Windows+tweaks)
 
 </div>
 
@@ -21,6 +21,12 @@
 <br>
 
 <div align="center">
+
+[![SentinelAI](https://img.shields.io/badge/🛡️_SentinelAI-v1.0.0-dc2626?style=for-the-badge)](https://github.com/threatvec/SentinelAI)
+&nbsp;
+[![Downloads](https://img.shields.io/github/downloads/threatvec/SentinelAI/total?style=for-the-badge&color=dc2626&label=downloads)](https://github.com/threatvec/SentinelAI/releases)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/threatvec/SentinelAI?style=for-the-badge&color=dc2626&label=stars)](https://github.com/threatvec/SentinelAI)
 
 [![VAULTX](https://img.shields.io/badge/⚡_VAULTX-v1.0.0-3d6b52?style=for-the-badge)](https://github.com/threatvec/vaultx)
 &nbsp;
